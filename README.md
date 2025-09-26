@@ -1,4 +1,3 @@
-# Dhoot-Transmission-Pvt-Ltd-MIS
 /*
   GitHub Portfolio - Single-file React component
   Usage:
